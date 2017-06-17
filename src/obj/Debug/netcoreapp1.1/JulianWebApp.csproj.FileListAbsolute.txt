@@ -1,0 +1,9 @@
+C:\Users\jcara\Source\Repos\JulianTest\src\bin\Debug\netcoreapp1.1\JulianWebApp.deps.json
+C:\Users\jcara\Source\Repos\JulianTest\src\bin\Debug\netcoreapp1.1\JulianWebApp.runtimeconfig.json
+C:\Users\jcara\Source\Repos\JulianTest\src\bin\Debug\netcoreapp1.1\JulianWebApp.runtimeconfig.dev.json
+C:\Users\jcara\Source\Repos\JulianTest\src\bin\Debug\netcoreapp1.1\JulianWebApp.dll
+C:\Users\jcara\Source\Repos\JulianTest\src\bin\Debug\netcoreapp1.1\JulianWebApp.pdb
+C:\Users\jcara\Source\Repos\JulianTest\src\obj\Debug\netcoreapp1.1\JulianWebApp.csprojResolveAssemblyReference.cache
+C:\Users\jcara\Source\Repos\JulianTest\src\obj\Debug\netcoreapp1.1\JulianWebApp.AssemblyInfo.cs
+C:\Users\jcara\Source\Repos\JulianTest\src\obj\Debug\netcoreapp1.1\JulianWebApp.dll
+C:\Users\jcara\Source\Repos\JulianTest\src\obj\Debug\netcoreapp1.1\JulianWebApp.pdb
